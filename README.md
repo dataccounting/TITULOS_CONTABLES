@@ -31,5 +31,8 @@ Fortalecí mis capacidades de control y revisión, asegurando que cada proceso c
 📈 Presente y Futuro: Liderazgo y Procedimientos
 Actualmente, mi formación se centra en la optimización de procesos y el dominio avanzado de las nuevas normativas.
 
-Diplomatura Contable (En curso)
+Actualizacion en Procedimientos Tributarios
+Fecha: Noviembre 2025
+
+Diplomatura Contable
 Fecha: Octubre 2025 – Abril 2026
