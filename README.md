@@ -45,7 +45,7 @@ Mi formación reciente y actual se centra en la optimización de procesos de def
 ## 🏆 Matriz Cronológica de Respaldos
 
 | Período / Fecha | Certificación / Título | Enfoque / Alcance Técnico
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- 
 | **Diciembre 2008** | **Contador Público Nacional (CPN)** | Formación de Grado Universitario
 | **Diciembre 2012** | **Especialista Tributarista** | Especialización de Posgrado (Fiscal) 
 | **Octubre 2021** | Diplomatura Contable | Actualización y Normativa Profesional
