@@ -1,47 +1,3 @@
-📑 Mi Trayectoria Contable: De la Base Nacional a la Especialización Tributaria
-"La contabilidad no es solo registrar números, es interpretar la realidad económica para la toma de decisiones estratégicas."
-
-🏛️ Los Cimientos: Formación de Grado y Especialización
-Aquí comenzó mi camino, construyendo la base técnica necesaria para entender el ecosistema legal y fiscal de Argentina.
-
-Contador Público Nacional (CPN)
-Fecha: Diciembre 2008
-
-Este título marcó el inicio de mi compromiso con la transparencia y la rigurosidad analítica. Desde entonces, he aplicado los principios contables con una visión integral del negocio.
-
-
-Especialista Tributarista
-Fecha: Diciembre 2012
-
-Con el fin de profundizar en la complejidad del sistema impositivo, me especialicé en materia tributaria, permitiéndome asesorar con precisión en un entorno fiscal siempre cambiante.
-
-🛠️ Evolución y Actualización Constante
-El derecho contable y laboral no es estático. Mi enfoque siempre ha sido la actualización permanente para garantizar el cumplimiento normativo (Compliance).
-
-Liquidación de Sueldos & Diplomatura Contable
-Fechas: Febrero 2022 | Octubre 2021
-
-Consolidando la práctica operativa y técnica en la gestión de capital humano y estados contables modernos.
-
-Auditoría Externa e Interna
-Fecha: Diciembre 2023
-
-Fortalecí mis capacidades de control y revisión, asegurando que cada proceso contable refleje la imagen fiel de la organización.
-
-📈 Presente y Futuro: Liderazgo y Procedimientos
-Actualmente, mi formación se centra en la optimización de procesos y el dominio avanzado de las nuevas normativas.
-
-Actualizacion en Procedimientos Tributarios
-Fecha: Noviembre 2025
-
-Diplomatura Contable
-Fecha: Octubre 2025 – Abril 2026
-
-
-
-
-
-
 
 # 📑 Mi Trayectoria Contable: De la Base Nacional a la Especialización Tributaria
 
@@ -88,17 +44,14 @@ Mi formación reciente y actual se centra en la optimización de procesos de def
 
 ## 🏆 Matriz Cronológica de Respaldos
 
-| Período / Fecha | Certificación / Título | Enfoque / Alcance Técnico | Enlace al Documento |
+| Período / Fecha | Certificación / Título | Enfoque / Alcance Técnico
 | :--- | :--- | :--- | :--- |
-| **Diciembre 2008** | **Contador Público Nacional (CPN)** | Formación de Grado Universitario | [📄 Ver Título](./Titulo_CPN.pdf) |
-| **Diciembre 2012** | **Especialista Tributarista** | Especialización de Posgrado (Fiscal) | [📄 Ver Especializacion](./Especializacion_Tributaria.pdf) |
-| **Octubre 2021** | Diplomatura Contable | Actualización y Normativa Profesional | [📄 Ver Certificado](./Diplomatura_Contable_2021.pdf) |
-| **Febrero 2022** | Liquidación de Sueldos | Gestión Técnico-Laboral y Previsional | [📄 Ver Certificado](./Liquidacion_Sueldos_2022.pdf) |
-| **Diciembre 2023** | Auditoría Externa e Interna | Control Interno y Procesos de Revisión | [📄 Ver Certificado](./Auditoria_2023.pdf) |
-| **Noviembre 2025** | Procedimientos Tributarios | Actualización en Defensa y Litigio Fiscal | [📄 Ver Certificado](./Procedimientos_Tributarios_2025.pdf) |
-| **Abril 2026** | Diplomatura Contable | Especialización Financiera y Normativa | [📄 Ver Certificado](./Diplomatura_Contable_2026.pdf) |
+| **Diciembre 2008** | **Contador Público Nacional (CPN)** | Formación de Grado Universitario
+| **Diciembre 2012** | **Especialista Tributarista** | Especialización de Posgrado (Fiscal) 
+| **Octubre 2021** | Diplomatura Contable | Actualización y Normativa Profesional
+| **Febrero 2022** | Liquidación de Sueldos | Gestión Técnico-Laboral y Previsional 
+| **Diciembre 2023** | Auditoría Externa e Interna | Control Interno y Procesos de Revisión
+| **Noviembre 2025** | Procedimientos Tributarios | Actualización en Defensa y Litigio Fiscal 
+| **Abril 2026** | Diplomatura Contable | Especialización Financiera y Normativa
 
-> 💡 *Nota de navegación:* Los nombres de los archivos PDF dentro de la columna de enlaces son sugeridos. Recuerda renombrar los documentos escaneados dentro de tu carpeta para que coincidan con la ruta (ej. `Titulo_CPN.pdf`) y que los accesos directos desde el repositorio funcionen de manera interactiva.
 
----
-*Documento preparado como sección de soporte para el Perfil Profesional y Portafolio de GitHub.*
